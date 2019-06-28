@@ -24,7 +24,7 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-Additional interface elements were added to enhance the app including chaning the tool bar, applying a new font , and using a border around
+Additional interface elements were added to enhance the app including changing the tool bar, applying a new font , and using a border around
 overview information.
 
 ## Video Walkthrough
